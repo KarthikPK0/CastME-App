@@ -1,0 +1,58 @@
+.footer{
+  
+    justify-content: center;
+    
+}
+
+
+
+.col1 h1{
+    font-size: 3em;
+    font-weight: 800;
+}
+
+.col ul li{
+    list-style: none;
+    padding-bottom: 5px;
+}
+
+.col ul li a {
+    text-decoration: none;
+    color: #000000;
+    transition: text-decoration 0.5s;
+}
+
+.col ul li a:hover {
+    text-decoration: underline
+}
+
+.col ul h5{
+    font-size: 16px;
+    font-weight: 800;
+    padding-bottom: 5px;
+}
+
+.f-icon{
+    color: #000000;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.f-list ul {
+display: flex;
+list-style: none;
+}
+
+.f-list ul li{
+    padding-right: 10px;
+}
+
+.f-list ul li a{
+    text-decoration: none;
+    color: #000000;
+    transition: text-decoration 0.5s;
+}
+
+.f-list ul li a:hover{
+    text-decoration: underline #000000;
+}

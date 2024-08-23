@@ -1,0 +1,35 @@
+.c-row{
+    border-top: 1px solid #000000;
+    height: auto;
+    border-bottom: 1px solid #000000;
+    padding: 60px 0 60px 0;
+   
+}
+
+.form-control{
+    background-color: #fff;
+    border-color: #000000;
+    border-width: 2px;
+   
+}
+
+.btn{
+    background-color: #BC9B5D;
+    width: 400px;
+}
+
+.btn:hover {
+    background-color: #a07f49; 
+    color: #fff; 
+}
+
+.c-icon{
+  color: #BC9B5D ;
+  font-size: 30px;
+  transition: color 0.5s;
+}
+
+.c-icon:hover{
+    color:#a07f49; ;
+}
+

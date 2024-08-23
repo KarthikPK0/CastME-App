@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: center;
+    padding: 18px 0 18px 0;
+    position: relative;
+    
+}
+
+
+.header ul{
+    list-style: none;
+    display: flex;
+    margin-bottom: 0;
+}
+
+.header ul li{
+    margin-left: 25px;
+   
+}
+
+.header ul li a{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 18px;
+    font-family: 800;
+    text-decoration: none;
+    color: #000000;
+    transition: text-decoration 0.5s;
+}
+
+.header ul li a:hover{
+    text-decoration: underline;
+}
+
+
+
